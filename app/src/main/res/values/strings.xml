@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Toolbar</string>
+    <string name="action1">Action1</string>
+    <string name="action2">Action2</string>
+    <string name="settings">Settings</string>
+    <string name="search">Search</string>
+</resources>
